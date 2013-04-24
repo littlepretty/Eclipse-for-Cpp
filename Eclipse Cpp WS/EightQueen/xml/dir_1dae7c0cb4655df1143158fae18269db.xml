@@ -1,0 +1,14 @@
+<?xml version='1.0' encoding='UTF-8' standalone='no'?>
+<doxygen xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="compound.xsd" version="1.8.0">
+  <compounddef id="dir_1dae7c0cb4655df1143158fae18269db" kind="dir">
+    <compoundname>D:/JAVA workspace/EightQueen/</compoundname>
+    <innerfile refid="_eight_queen_8cpp">EightQueen.cpp</innerfile>
+    <innerfile refid="_eight_queen_8h">EightQueen.h</innerfile>
+    <innerfile refid="main_8cpp">main.cpp</innerfile>
+    <briefdescription>
+    </briefdescription>
+    <detaileddescription>
+    </detaileddescription>
+    <location file="D:/JAVA workspace/EightQueen/"/>
+  </compounddef>
+</doxygen>

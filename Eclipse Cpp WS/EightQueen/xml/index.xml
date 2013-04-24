@@ -1,0 +1,24 @@
+<?xml version='1.0' encoding='UTF-8' standalone='no'?>
+<doxygenindex xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="index.xsd" version="1.8.0">
+  <compound refid="class_eight_queen" kind="class"><name>EightQueen</name>
+    <member refid="class_eight_queen_1af625a939ee734c6718b5f722f726b270" kind="variable"><name>Position</name></member>
+    <member refid="class_eight_queen_1a36962cfc8bed97350f12c3733aa0fe79" kind="variable"><name>QueenNumber</name></member>
+    <member refid="class_eight_queen_1a4694473aa1e7f73085af734e71eb3478" kind="variable"><name>Count</name></member>
+    <member refid="class_eight_queen_1a97eb776c6a7b42ebe7ff5b5ad080177f" kind="function"><name>EightQueen</name></member>
+    <member refid="class_eight_queen_1a3ec97482575076e29770fb7b30ab2c0d" kind="function"><name>~EightQueen</name></member>
+    <member refid="class_eight_queen_1a21b76024e2ae55a1201f3fb894cabf67" kind="function"><name>SafePut</name></member>
+    <member refid="class_eight_queen_1a1272bc02a05e6d02332e8cd9cbaa64a6" kind="function"><name>PrintQueen</name></member>
+    <member refid="class_eight_queen_1a2b93a9d3669aaece687d22e2c469ce70" kind="function"><name>CheckSafe</name></member>
+  </compound>
+  <compound refid="_eight_queen_8cpp" kind="file"><name>EightQueen.cpp</name>
+  </compound>
+  <compound refid="_eight_queen_8h" kind="file"><name>EightQueen.h</name>
+  </compound>
+  <compound refid="main_8cpp" kind="file"><name>main.cpp</name>
+    <member refid="main_8cpp_1ae66f6b31b5ad750f1fe042a706a4e3d4" kind="function"><name>main</name></member>
+  </compound>
+  <compound refid="dir_1dae7c0cb4655df1143158fae18269db" kind="dir"><name>D:/JAVA workspace/EightQueen/</name>
+  </compound>
+  <compound refid="dir_1d070a60913b8ee6c6964f7277435a8e" kind="dir"><name>D:/JAVA workspace/</name>
+  </compound>
+</doxygenindex>

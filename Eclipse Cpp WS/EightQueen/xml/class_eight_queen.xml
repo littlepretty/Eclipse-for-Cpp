@@ -1,0 +1,138 @@
+<?xml version='1.0' encoding='UTF-8' standalone='no'?>
+<doxygen xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="compound.xsd" version="1.8.0">
+  <compounddef id="class_eight_queen" kind="class" prot="public">
+    <compoundname>EightQueen</compoundname>
+    <includes refid="_eight_queen_8h" local="no">EightQueen.h</includes>
+      <sectiondef kind="private-attrib">
+      <memberdef kind="variable" id="class_eight_queen_1af625a939ee734c6718b5f722f726b270" prot="private" static="no" mutable="no">
+        <type>std::vector&lt; int &gt;</type>
+        <definition>std::vector&lt;int&gt; EightQueen::Position</definition>
+        <argsstring></argsstring>
+        <name>Position</name>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="D:/JAVA workspace/EightQueen/EightQueen.h" line="27" bodyfile="D:/JAVA workspace/EightQueen/EightQueen.h" bodystart="27" bodyend="-1"/>
+      </memberdef>
+      <memberdef kind="variable" id="class_eight_queen_1a36962cfc8bed97350f12c3733aa0fe79" prot="private" static="no" mutable="no">
+        <type>int</type>
+        <definition>int EightQueen::QueenNumber</definition>
+        <argsstring></argsstring>
+        <name>QueenNumber</name>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="D:/JAVA workspace/EightQueen/EightQueen.h" line="28" bodyfile="D:/JAVA workspace/EightQueen/EightQueen.h" bodystart="28" bodyend="-1"/>
+      </memberdef>
+      <memberdef kind="variable" id="class_eight_queen_1a4694473aa1e7f73085af734e71eb3478" prot="private" static="no" mutable="no">
+        <type>int</type>
+        <definition>int EightQueen::Count</definition>
+        <argsstring></argsstring>
+        <name>Count</name>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="D:/JAVA workspace/EightQueen/EightQueen.h" line="29" bodyfile="D:/JAVA workspace/EightQueen/EightQueen.h" bodystart="29" bodyend="-1"/>
+      </memberdef>
+      </sectiondef>
+      <sectiondef kind="public-func">
+      <memberdef kind="function" id="class_eight_queen_1a97eb776c6a7b42ebe7ff5b5ad080177f" prot="public" static="no" const="no" explicit="no" inline="no" virt="non-virtual">
+        <type></type>
+        <definition>EightQueen::EightQueen</definition>
+        <argsstring>()</argsstring>
+        <name>EightQueen</name>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="D:/JAVA workspace/EightQueen/EightQueen.h" line="21" bodyfile="D:/JAVA workspace/EightQueen/EightQueen.cpp" bodystart="23" bodyend="30"/>
+      </memberdef>
+      <memberdef kind="function" id="class_eight_queen_1a3ec97482575076e29770fb7b30ab2c0d" prot="public" static="no" const="no" explicit="no" inline="no" virt="virtual">
+        <type></type>
+        <definition>EightQueen::~EightQueen</definition>
+        <argsstring>()</argsstring>
+        <name>~EightQueen</name>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="D:/JAVA workspace/EightQueen/EightQueen.h" line="22" bodyfile="D:/JAVA workspace/EightQueen/EightQueen.cpp" bodystart="35" bodyend="37"/>
+      </memberdef>
+      <memberdef kind="function" id="class_eight_queen_1a21b76024e2ae55a1201f3fb894cabf67" prot="public" static="no" const="no" explicit="no" inline="no" virt="non-virtual">
+        <type>std::vector&lt; int &gt;</type>
+        <definition>std::vector&lt; int &gt; EightQueen::SafePut</definition>
+        <argsstring>(int index)</argsstring>
+        <name>SafePut</name>
+        <param>
+          <type>int</type>
+          <declname>index</declname>
+        </param>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="D:/JAVA workspace/EightQueen/EightQueen.h" line="23" bodyfile="D:/JAVA workspace/EightQueen/EightQueen.cpp" bodystart="43" bodyend="56"/>
+      </memberdef>
+      <memberdef kind="function" id="class_eight_queen_1a1272bc02a05e6d02332e8cd9cbaa64a6" prot="public" static="no" const="no" explicit="no" inline="no" virt="non-virtual">
+        <type>void</type>
+        <definition>void EightQueen::PrintQueen</definition>
+        <argsstring>()</argsstring>
+        <name>PrintQueen</name>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="D:/JAVA workspace/EightQueen/EightQueen.h" line="24" bodyfile="D:/JAVA workspace/EightQueen/EightQueen.cpp" bodystart="62" bodyend="81"/>
+      </memberdef>
+      <memberdef kind="function" id="class_eight_queen_1a2b93a9d3669aaece687d22e2c469ce70" prot="public" static="no" const="no" explicit="no" inline="no" virt="non-virtual">
+        <type>bool</type>
+        <definition>bool EightQueen::CheckSafe</definition>
+        <argsstring>(int index)</argsstring>
+        <name>CheckSafe</name>
+        <param>
+          <type>int</type>
+          <declname>index</declname>
+        </param>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="D:/JAVA workspace/EightQueen/EightQueen.h" line="25" bodyfile="D:/JAVA workspace/EightQueen/EightQueen.cpp" bodystart="87" bodyend="96"/>
+      </memberdef>
+      </sectiondef>
+    <briefdescription>
+    </briefdescription>
+    <detaileddescription>
+    </detaileddescription>
+    <location file="D:/JAVA workspace/EightQueen/EightQueen.h" line="19" bodyfile="D:/JAVA workspace/EightQueen/EightQueen.h" bodystart="18" bodyend="30"/>
+    <listofallmembers>
+      <member refid="class_eight_queen_1a2b93a9d3669aaece687d22e2c469ce70" prot="public" virt="non-virtual"><scope>EightQueen</scope><name>CheckSafe</name></member>
+      <member refid="class_eight_queen_1a4694473aa1e7f73085af734e71eb3478" prot="private" virt="non-virtual"><scope>EightQueen</scope><name>Count</name></member>
+      <member refid="class_eight_queen_1a97eb776c6a7b42ebe7ff5b5ad080177f" prot="public" virt="non-virtual"><scope>EightQueen</scope><name>EightQueen</name></member>
+      <member refid="class_eight_queen_1af625a939ee734c6718b5f722f726b270" prot="private" virt="non-virtual"><scope>EightQueen</scope><name>Position</name></member>
+      <member refid="class_eight_queen_1a1272bc02a05e6d02332e8cd9cbaa64a6" prot="public" virt="non-virtual"><scope>EightQueen</scope><name>PrintQueen</name></member>
+      <member refid="class_eight_queen_1a36962cfc8bed97350f12c3733aa0fe79" prot="private" virt="non-virtual"><scope>EightQueen</scope><name>QueenNumber</name></member>
+      <member refid="class_eight_queen_1a21b76024e2ae55a1201f3fb894cabf67" prot="public" virt="non-virtual"><scope>EightQueen</scope><name>SafePut</name></member>
+      <member refid="class_eight_queen_1a3ec97482575076e29770fb7b30ab2c0d" prot="public" virt="virtual"><scope>EightQueen</scope><name>~EightQueen</name></member>
+    </listofallmembers>
+  </compounddef>
+</doxygen>

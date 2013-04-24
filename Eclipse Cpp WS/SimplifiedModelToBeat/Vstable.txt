@@ -1,0 +1,2 @@
+    Vstable(1)    Vstable(2)    Vstable(3)    Vstable(4)
+     10.025088     8.7095352     8.3806752     8.3806752

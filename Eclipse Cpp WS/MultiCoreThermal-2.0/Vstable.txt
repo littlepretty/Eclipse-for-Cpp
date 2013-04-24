@@ -1,0 +1,2 @@
+  Vstable(1)  Vstable(2)  Vstable(3)  Vstable(4)  Vstable(5)  Vstable(6)  Vstable(7)  Vstable(8)
+    17.56046   17.635172   17.709885   17.784598   17.784598   17.709885   17.635172    17.56046
